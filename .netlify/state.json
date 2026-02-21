@@ -1,20 +1,3 @@
 {
-	"geolocation": {
-		"data": {
-			"city": "Teresina",
-			"country": {
-				"code": "BR",
-				"name": "Brazil"
-			},
-			"subdivision": {
-				"code": "PI",
-				"name": "Piauí"
-			},
-			"timezone": "America/Fortaleza",
-			"latitude": -5.0854,
-			"longitude": -42.803,
-			"postalCode": "64049"
-		},
-		"timestamp": 1771701897636
-	}
+	"siteId": "35eeb9de-1cf0-4476-9d29-6cba8bf8ac8a"
 }
